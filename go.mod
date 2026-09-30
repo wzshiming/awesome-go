@@ -1,6 +1,6 @@
 module github.com/avelino/awesome-go
 
-go 1.17
+go 1.25.0
 
 require (
 	github.com/PuerkitoBio/goquery v1.8.0
@@ -12,10 +12,10 @@ require (
 
 require (
 	github.com/andybalholm/cascadia v1.3.1 // indirect
-	github.com/golang/protobuf v1.4.2 // indirect
-	golang.org/x/net v0.7.0 // indirect
-	golang.org/x/sys v0.5.0 // indirect
-	golang.org/x/text v0.7.0 // indirect
+	github.com/golang/protobuf v1.5.0 // indirect
+	golang.org/x/net v0.55.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 	google.golang.org/appengine v1.6.6 // indirect
-	google.golang.org/protobuf v1.25.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 )
